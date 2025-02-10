@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "2b16",
+      "name": "Fatima",
+      "email": "fatimaq@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "70b0",
+      "name": "Heba emad",
+      "email": "heba@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "15de",
+      "title": "task01",
+      "priority": "Low",
+      "description": "task01 task01 task01",
+      "status": "In Progress",
+      "userId": "2b16"
+    },
+    {
+      "id": "85ce",
+      "title": "task02",
+      "priority": "Medium",
+      "description": "task02 task02 task02 ",
+      "status": "In Progress",
+      "userId": "2b16"
+    },
+    {
+      "id": "9f58",
+      "title": "Ticket 01",
+      "priority": "High",
+      "description": "Ticket01 Ticket01 Ticket01 ",
+      "status": "Resolved",
+      "userId": "70b0"
+    },
+    {
+      "id": "c0be",
+      "title": "Ticket02 ",
+      "priority": "High",
+      "description": "Ticket02  Ticket02  Ticket02 ",
+      "status": "In Progress",
+      "userId": "70b0"
+    },
+    {
+      "id": "332b",
+      "title": "task 03",
+      "priority": "Critical",
+      "description": "task 03 task 03 task 03",
+      "status": "Pending",
+      "userId": "2b16"
+    }
+  ]
+}
