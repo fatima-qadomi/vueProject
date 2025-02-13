@@ -15,19 +15,11 @@
   ],
   "tickets": [
     {
-      "id": "15de",
-      "title": "task01",
-      "priority": "Low",
-      "description": "task01 task01 task01",
-      "status": "In Progress",
-      "userId": "2b16"
-    },
-    {
       "id": "85ce",
-      "title": "task02",
-      "priority": "Medium",
-      "description": "task02 task02 task02 ",
-      "status": "In Progress",
+      "title": "task01",
+      "priority": "Critical",
+      "description": "this is task 01",
+      "status": "Pending",
       "userId": "2b16"
     },
     {
@@ -45,14 +37,6 @@
       "description": "Ticket02  Ticket02  Ticket02 ",
       "status": "In Progress",
       "userId": "70b0"
-    },
-    {
-      "id": "332b",
-      "title": "task 03",
-      "priority": "Critical",
-      "description": "task 03 task 03 task 03",
-      "status": "Pending",
-      "userId": "2b16"
     }
   ]
 }
